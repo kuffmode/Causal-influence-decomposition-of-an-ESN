@@ -1,0 +1,11 @@
+# Causal Influences Decouple From Their Underlying Structure In Echo States Networks.
+**The work is still in progress and the paper is submitted so here's the abstract for the curious mind:**
+Echo State Networks (ESN) are versatile recurrent neural network models in which the hidden layer remains unaltered during training. Interactions among nodes of this static backbone (the network structure) produce diverse representations (*i.e.,* network function) of the given stimuli that are harnessed by a read-out mechanism to perform computations needed for solving the given task (*i.e.,* behavior). 
+
+ESNs are accessible models of neuronal circuits that are relatively inexpensive to train, making ESNs an attractive option for neuroscientists studying the relationship between neural structure, function, and behavior. For instance, it is not yet clear how distinctive connectivity patterns of brain networks (structure) support effective interactions among their nodes (function), and how these patterns of interactions give rise to computation (behavior). 
+
+To address these questions we employed an ESN with a biologically inspired structure and used a systematic multi-site lesioning framework to quantify the causal contribution of each node to the ESN's performance, thus providing a causal link between structure and behavior. We then focused on the structure-function relationship and decomposed the causal influence of each node on all other nodes, using the same lesioning framework. 
+
+We found that nodes interact with each other irrespective of the network's underlying structure. For comparison, we used the same network structure with a simple model of discrete excitable units with a Susceptible-Excited-Refractory (SER) dynamic cycle. In contrast to the ESN, we found that SER nodes rely heavily on the underlying connectivity properties to effectively interact with one another. 
+
+In conclusion, our results demonstrate intricate causal structure-function relations for ESNs in which nodes are affected by each other directly via the direct structural connections, but irrespective of their underlying connection strength, as well as indirectly, via other intermediate nodes. These widely distributed, multi-scale interactions may underlie the efficient performance of ESNs.
