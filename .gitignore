@@ -1,0 +1,17 @@
+# Project exclude paths
+/archive/
+/Figures/Activity of the Intact.pdf
+/Figures/baseline_behavior.pdf
+/Figures/baseline_vs_intact.pdf
+/Figures/Behavior.pdf
+/Figures/Broken ESN.pdf
+/Figures/ESN Causal Influences.pdf
+/Figures/ESNs SER Connectome.pdf
+/Figures/intuitive_SERcorr_and_cid_CH.pdf
+/Figures/intuitive_SERcorr_and_cid_SM.pdf
+/Figures/intuitive_SERspike_count_CH.pdf
+/Figures/intuitive_SERspike_count_SM.pdf
+/Figures/intuitive_SERspikes_CH.pdf
+/Figures/intuitive_SERspikes_SM.pdf
+/Figures/SER intact.pdf
+/Figures/Topology.pdf
